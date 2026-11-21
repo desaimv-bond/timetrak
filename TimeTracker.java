@@ -13,7 +13,7 @@ public class TimeTracker {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("=== Java Time Tracker ===");
-        System.out.println("Commands: start <task>, stop, report, exit, test");
+        System.out.println("Commands: start <task>, stop, report, exit, chal nahi to bahut marunga");
 
         while (true) {
             System.out.print("\n> ");
