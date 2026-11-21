@@ -1,9 +1,6 @@
 
 
-public class TimeTracker {
-    private static String currentTask = null;
-    private static Instant startTime = null;
-    private static final Map<String, Duration> taskLogs = new HashMap<>();
+
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
